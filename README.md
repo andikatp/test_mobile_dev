@@ -1,17 +1,16 @@
 # test_mobile_dev
-A new Flutter project.
+This Flutter project demonstrates an app that displays various number sequences based on user input.
 
 [![style: very good analysis](https://img.shields.io/badge/style-very_good_analysis-B22C89.svg)](https://pub.dev/packages/very_good_analysis)
 
-## Getting Started
+## 🎉 Features
+Input a number N to generate different number sequences.
+Implementations for the following sequences:
+- Sequential numbers from 1 to N.
+- Sequential numbers from 1 to N then back to 1.
+- Sequential numbers from 1 to N with a specific pattern.
+- Sequential numbers from 1 to N with multiples of 5 replaced by "LIMA" and multiples of 7 replaced by "TUJUH".
 
-This project is a starting point for a Flutter application.
+## 🛠️ Demo
+<img src="https://github.com/andikatp/test_mobile_dev/blob/main/assets/test.gif" width="250" height="500"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
