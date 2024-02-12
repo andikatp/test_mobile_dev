@@ -114,6 +114,7 @@ class MainPage extends StatelessWidget {
                       return SizedBox(
                         height: 0.35.sh,
                         child: SingleChildScrollView(
+                          physics: const BouncingScrollPhysics(),
                           child: Wrap(
                             spacing: 8,
                             runSpacing: 8,
