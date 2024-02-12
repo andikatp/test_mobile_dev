@@ -112,7 +112,7 @@ class MainPage extends StatelessWidget {
                     }
                     if (state is CalculateLoaded) {
                       return SizedBox(
-                        height: 0.4.sh,
+                        height: 0.35.sh,
                         child: SingleChildScrollView(
                           child: Wrap(
                             spacing: 8,
